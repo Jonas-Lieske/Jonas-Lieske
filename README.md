@@ -8,7 +8,8 @@ I'm a passionate bot programmer, meaning I love to automate work that takes me 1
 - [Instagram](https://www.instagram.com/jonas.lieske/)
 - [Discord](discordapp.com/users/282623078410747904) (`Schubber#4242`)
 
-### Tips:
+### Tips 💸
+- (FIAT) [HERE](https://www.buymeacoffee.com/jonaslieske)
 - (Ethereum) 0x276370C0086ECD7E34ABc3a8FF0ad4e24D711c66
 - (Bitcoin) bc1q09767674z8vmu3mge2au7zz7d8p905k4tf9xt2
 - (Matic) 0x276370C0086ECD7E34ABc3a8FF0ad4e24D711c66
