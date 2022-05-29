@@ -1,8 +1,3 @@
-<div style="border-radius: 50px;
-background: #0D1117;
-box-shadow:  20px 20px 60px #0b0e14,
-             -20px -20px 60px #0f141a;max-width:90%;padding: 10px 5% 30px;margin:auto;">
-
 <h1 style="text-align:center;display:inline-block;">Hi there</h1>
 <img src="media/wave_emoji.png" style="height:40px;display:inline-block;vertical-align:middle;margin-bottom:20px">
 
@@ -11,19 +6,12 @@ I'm Jonas and I'm from Cologne, Germany ✌️
 I'm a passionate bot programmer, meaning I love to automate work that takes me 10 minutes to do by creating a solution
 that takes me a day to make 🥴
 
-</div>
-
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-
-<div style="border-radius: 50px;
-background: #0D1117;
-box-shadow:  20px 20px 60px #0b0e14,
-             -20px -20px 60px #0f141a;max-width:90%;margin:auto;padding:5px;">
 
 <img src="media/contact.png" height="200" style="display:inline-block;vertical-align:middle;">
 <div style="display:inline-block;vertical-align:middle;">
@@ -51,14 +39,8 @@ box-shadow:  20px 20px 60px #0b0e14,
 <p style="text-align:center;display:inline-block;">Schubber#4242</p>
 </a>
 </div>
-</div>
 
 <br><br>
-
-<div style="border-radius: 50px;
-background: #0D1117;
-box-shadow:  20px 20px 60px #0b0e14,
-             -20px -20px 60px #0f141a;max-width:90%;margin:auto;padding:5px;">
 
 <img src="media/money_jar.png" height="200" style="display:inline-block;vertical-align:middle; margin-bottom:60px">
 <div style="display:inline-block;vertical-align:middle;">
@@ -85,5 +67,4 @@ box-shadow:  20px 20px 60px #0b0e14,
 <img src="media/coffee.png" height="36">
 </a>
 
-</div>
 </div>
